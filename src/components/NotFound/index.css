@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.notfound-container {
+  margin-top: 0px;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.notfound-image {
+  width: 25%;
+}
